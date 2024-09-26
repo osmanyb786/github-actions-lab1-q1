@@ -1,2 +1,2 @@
 # GitHub Actions Lab 1
-A new lab
+A new lab for demo
